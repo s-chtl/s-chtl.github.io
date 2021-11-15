@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SoK | Sylvain Chatel&#39;s Personal Page</title>
+    <link>https://s-chtl.github.io/tag/sok/</link>
+      <atom:link href="https://s-chtl.github.io/tag/sok/index.xml" rel="self" type="application/rss+xml" />
+    <description>SoK</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://s-chtl.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>SoK</title>
+      <link>https://s-chtl.github.io/tag/sok/</link>
+    </image>
+    
+    <item>
+      <title>Collaborative Tree-based Model Learning</title>
+      <link>https://s-chtl.github.io/project/sok/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://s-chtl.github.io/project/sok/</guid>
+      <description>&lt;p&gt;Tree-based models are among the most efficient machine learning techniques for data mining nowadays due to their accuracy, interpretability, and simplicity. The recent orthogonal needs for more data and privacy protection call for collaborative privacy-preserving solutions. In this work, we survey the literature on distributed and privacy-preserving training of tree-based models and we systematize its knowledge based on four axes: the learning algorithm, the collaborative model, the protection mechanism, and the threat model. We use this to identify the strengths and limitations of these works and provide for the first time a framework analyzing the information leakage occurring in distributed tree-based model learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
