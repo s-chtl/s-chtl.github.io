@@ -23,6 +23,16 @@
     </item>
     
     <item>
+      <title>Decentralized Privacy-Preserving Proximity Tracing</title>
+      <link>https://s-chtl.github.io/publication/dp3t/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://s-chtl.github.io/publication/dp3t/</guid>
+      <description>&lt;p&gt;This document describes and analyzes a system for secure and privacy-preserving proximity tracing at large scale. This system, referred to as DP3T, provides a technological foundation to help slow the spread of SARS-CoV-2 by simplifying and accelerating the process of notifying people who might have been exposed to the virus so that they can take appropriate measures to break its transmission chain. The system aims to minimise privacy and security risks for individuals and communities and guarantee the highest level of data protection. The goal of our proximity tracing system is to determine who has been in close physical proximity to a COVID-19 positive person and thus exposed to the virus, without revealing the contact&amp;rsquo;s identity or where the contact occurred. To achieve this goal, users run a smartphone app that continually broadcasts an ephemeral, pseudo-random ID representing the user&amp;rsquo;s phone and also records the pseudo-random IDs observed from smartphones in close proximity. When a patient is diagnosed with COVID-19, she can upload pseudo-random IDs previously broadcast from her phone to a central server. Prior to the upload, all data remains exclusively on the user&amp;rsquo;s phone. Other users&#39; apps can use data from the server to locally estimate whether the device&amp;rsquo;s owner was exposed to the virus through close-range physical proximity to a COVID-19 positive person who has uploaded their data. In case the app detects a high risk, it will inform the user.&lt;/p&gt;
+&lt;p&gt;The latest version of this work is available on &lt;a href=&#34;https://arxiv.org/abs/2005.12273&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Reproducing Meta-learning with differentiable closed-form solvers</title>
       <link>https://s-chtl.github.io/publication/reproducibility/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>

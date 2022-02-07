@@ -2,8 +2,8 @@
   "name": "Sylvain Chatel's Personal Page",
   "short_name": "Sylvain Chatel's Personal Page",
   "lang": "en-us",
-  "theme_color": "#538cc6",
-  "background_color": "#538cc6",
+  "theme_color": "#bbdefb",
+  "background_color": "#bbdefb",
   "icons": [{
     "src": "/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
