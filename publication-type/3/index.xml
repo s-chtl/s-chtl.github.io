@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Sylvain Chatel</title>
-    <link>https://s-chtl.github.io/publication-type/3/</link>
-      <atom:link href="https://s-chtl.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <title>3 | Academic</title>
+    <link>https://example.com/publication-type/3/</link>
+      <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://s-chtl.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>https://s-chtl.github.io/publication-type/3/</link>
+      <link>https://example.com/publication-type/3/</link>
     </image>
     
     <item>
       <title>Verifiable Encodings for Secure Homomorphic Analytics</title>
-      <link>https://s-chtl.github.io/publication/veritas/</link>
+      <link>https://example.com/publication/veritas/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://s-chtl.github.io/publication/veritas/</guid>
+      <guid>https://example.com/publication/veritas/</guid>
       <description>&lt;p&gt;Homomorphic encryption, which enables the execution of arithmetic operations directly on ciphertexts, is a promising solution for protecting privacy of cloud-delegated computations on sensitive data. However, the correctness of the computation result is not ensured. We propose two error detection encodings and build authenticators that enable practical client-verification of cloud-based homomorphic computations under different trade-offs and without compromising on the features of the encryption algorithm. Our authenticators operate on top of trending ring learning with errors based fully homomorphic encryption schemes over the integers. We implement our solution in VERITAS, a ready-to-use system for verification of outsourced computations executed over encrypted data. We show that contrary to prior work VERITAS supports verification of any homomorphic operation and we demonstrate its practicality for various applications, such as ride-hailing, genomic-data analysis, encrypted search, and machine-learning training and inference.&lt;/p&gt;
 &lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2207.14071&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
 </description>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Verifiable Computing | Sylvain Chatel</title>
-    <link>https://s-chtl.github.io/tag/verifiable-computing/</link>
-      <atom:link href="https://s-chtl.github.io/tag/verifiable-computing/index.xml" rel="self" type="application/rss+xml" />
+    <title>Verifiable Computing | Academic</title>
+    <link>https://example.com/tag/verifiable-computing/</link>
+      <atom:link href="https://example.com/tag/verifiable-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Verifiable Computing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://s-chtl.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Verifiable Computing</title>
-      <link>https://s-chtl.github.io/tag/verifiable-computing/</link>
+      <link>https://example.com/tag/verifiable-computing/</link>
     </image>
     
     <item>
       <title>VERITAS Project</title>
-      <link>https://s-chtl.github.io/project/veritas/</link>
+      <link>https://example.com/project/veritas/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://s-chtl.github.io/project/veritas/</guid>
+      <guid>https://example.com/project/veritas/</guid>
       <description>&lt;p&gt;Homomorphic encryption schemes enable computations to be executed directly on ciphertexts without knowledge of the secret key, hence they are becoming an auspicious solution to protecting confidentiality in cloud computing. However, clients do not obtain any guarantees about the correctness of the computations performed by the cloud. We propose to explore how Verifiable Computing and Proof Systems can be combined with homomorphic encryption. Our end goal is to provide an open-source system that could be use off-the-shelf in existing homomorphic pipelines.&lt;/p&gt;
 </description>
     </item>

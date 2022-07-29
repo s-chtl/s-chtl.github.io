@@ -4,90 +4,62 @@
   
   
   <url>
-    <loc></loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication-type/3/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/publication-type/3/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/fhe/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/lattices/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/project/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/fhe/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/proof-systems/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/lattices/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/project/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/proof-systems/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tags/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/publication_types/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/verifiable-computing/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/publication/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication/veritas/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/project/veritas/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2021-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tags/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication/crisp/</loc><lastmod>2021-08-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/verifiable-computing/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication-type/2/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/publication/veritas/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/covert-adversary/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/project/veritas/</loc><lastmod>2022-07-28T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/project/crisp/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/publication-type/1/</loc><lastmod>2021-08-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/homomorphic-encryption/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2021-08-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication/sok/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/publication/crisp/</loc><lastmod>2021-08-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/zero-knoweldge-proof/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/publication-type/2/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/project/sok/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/covert-adversary/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/machine-learning/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/project/crisp/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/sok/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/homomorphic-encryption/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/tag/trees/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/publication/sok/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication/dp3t/</loc><lastmod>2020-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/zero-knoweldge-proof/</loc><lastmod>2021-04-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/publication/reproducibility/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/project/sok/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/machine-learning/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/sok/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
+    <loc>https://example.com/admin/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://s-chtl.github.io/tag/trees/</loc><lastmod>2020-12-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2020-05-25T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://s-chtl.github.io/publication/dp3t/</loc><lastmod>2020-05-25T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2020-05-25T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2020-05-25T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2020-05-25T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2019-05-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2019-05-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2019-05-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://s-chtl.github.io/publication/reproducibility/</loc><lastmod>2019-05-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2019-05-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://s-chtl.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://s-chtl.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://s-chtl.github.io/admin/</loc></url>
-  <url>
-    <loc>https://s-chtl.github.io/categories/</loc></url></urlset>
+    <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url></urlset>

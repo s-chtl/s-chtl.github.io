@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zero-knoweldge Proof | Sylvain Chatel</title>
-    <link>https://s-chtl.github.io/tag/zero-knoweldge-proof/</link>
-      <atom:link href="https://s-chtl.github.io/tag/zero-knoweldge-proof/index.xml" rel="self" type="application/rss+xml" />
+    <title>Zero-knoweldge Proof | Academic</title>
+    <link>https://example.com/tag/zero-knoweldge-proof/</link>
+      <atom:link href="https://example.com/tag/zero-knoweldge-proof/index.xml" rel="self" type="application/rss+xml" />
     <description>Zero-knoweldge Proof</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://s-chtl.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Zero-knoweldge Proof</title>
-      <link>https://s-chtl.github.io/tag/zero-knoweldge-proof/</link>
+      <link>https://example.com/tag/zero-knoweldge-proof/</link>
     </image>
     
     <item>
       <title>CRISP Project</title>
-      <link>https://s-chtl.github.io/project/crisp/</link>
+      <link>https://example.com/project/crisp/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://s-chtl.github.io/project/crisp/</guid>
-      <description>&lt;p&gt;In the digital era, users share their personal data with service providers to obtain some utility, e.g., access to high-quality services. Yet, the induced information flows raise privacy and integrity concerns. Consequently, cautious users may want to protect their privacy by minimizing the amount of information they disclose to curious service providers. Service providers are interested in verifying the integrity of the users&#39; data to improve their services and obtain useful knowledge for their business. In this work, we present a generic solution to the trade-off between privacy, integrity, and utility, by achieving authenticity verification of data that has been encrypted for offloading to service providers. Based on lattice-based homomorphic encryption and commitments, as well as zero-knowledge proofs, our construction enables a service provider to process and reuse third-party signed data in a privacy-friendly manner with integrity guarantees. We evaluate our solution on different use cases such as smart-metering, disease susceptibility, and location-based activity tracking, thus showing its versatility. Our solution achieves broad generality, quantum-resistance, and relaxes some assumptions of state-of-the-art solutions without affecting performance.&lt;/p&gt;
+      <guid>https://example.com/project/crisp/</guid>
+      <description>&lt;p&gt;In the digital era, users share their personal data with service providers to obtain some utility, e.g., access to high-quality services. Yet, the induced information flows raise privacy and integrity concerns. Consequently, cautious users may want to protect their privacy by minimizing the amount of information they disclose to curious service providers. Service providers are interested in verifying the integrity of the users&amp;rsquo; data to improve their services and obtain useful knowledge for their business. In this work, we present a generic solution to the trade-off between privacy, integrity, and utility, by achieving authenticity verification of data that has been encrypted for offloading to service providers. Based on lattice-based homomorphic encryption and commitments, as well as zero-knowledge proofs, our construction enables a service provider to process and reuse third-party signed data in a privacy-friendly manner with integrity guarantees. We evaluate our solution on different use cases such as smart-metering, disease susceptibility, and location-based activity tracking, thus showing its versatility. Our solution achieves broad generality, quantum-resistance, and relaxes some assumptions of state-of-the-art solutions without affecting performance.&lt;/p&gt;
 </description>
     </item>
     
