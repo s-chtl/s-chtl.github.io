@@ -5,7 +5,7 @@
     <link>https://s-chtl.github.io/</link>
       <atom:link href="https://s-chtl.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sylvain Chatel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://s-chtl.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Sylvain Chatel</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
-      <title>CRISP Project</title>
-      <link>https://s-chtl.github.io/project/crisp/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://s-chtl.github.io/project/crisp/</guid>
-      <description>&lt;p&gt;In the digital era, users share their personal data with service providers to obtain some utility, e.g., access to high-quality services. Yet, the induced information flows raise privacy and integrity concerns. Consequently, cautious users may want to protect their privacy by minimizing the amount of information they disclose to curious service providers. Service providers are interested in verifying the integrity of the users&#39; data to improve their services and obtain useful knowledge for their business. In this work, we present a generic solution to the trade-off between privacy, integrity, and utility, by achieving authenticity verification of data that has been encrypted for offloading to service providers. Based on lattice-based homomorphic encryption and commitments, as well as zero-knowledge proofs, our construction enables a service provider to process and reuse third-party signed data in a privacy-friendly manner with integrity guarantees. We evaluate our solution on different use cases such as smart-metering, disease susceptibility, and location-based activity tracking, thus showing its versatility. Our solution achieves broad generality, quantum-resistance, and relaxes some assumptions of state-of-the-art solutions without affecting performance.&lt;/p&gt;
+      <title>Verifiable Encodings for Secure Homomorphic Analytics</title>
+      <link>https://s-chtl.github.io/publication/veritas/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://s-chtl.github.io/publication/veritas/</guid>
+      <description>&lt;p&gt;Homomorphic encryption, which enables the execution of arithmetic operations directly on ciphertexts, is a promising solution for protecting privacy of cloud-delegated computations on sensitive data. However, the correctness of the computation result is not ensured. We propose two error detection encodings and build authenticators that enable practical client-verification of cloud-based homomorphic computations under different trade-offs and without compromising on the features of the encryption algorithm. Our authenticators operate on top of trending ring learning with errors based fully homomorphic encryption schemes over the integers. We implement our solution in VERITAS, a ready-to-use system for verification of outsourced computations executed over encrypted data. We show that contrary to prior work VERITAS supports verification of any homomorphic operation and we demonstrate its practicality for various applications, such as ride-hailing, genomic-data analysis, encrypted search, and machine-learning training and inference.&lt;/p&gt;
+&lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2207.14071&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VERITAS Project</title>
+      <link>https://s-chtl.github.io/project/veritas/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://s-chtl.github.io/project/veritas/</guid>
+      <description>&lt;p&gt;Homomorphic encryption schemes enable computations to be executed directly on ciphertexts without knowledge of the secret key, hence they are becoming an auspicious solution to protecting confidentiality in cloud computing. However, clients do not obtain any guarantees about the correctness of the computations performed by the cloud. We propose to explore how Verifiable Computing and Proof Systems can be combined with homomorphic encryption. Our end goal is to provide an open-source system that could be use off-the-shelf in existing homomorphic pipelines.&lt;/p&gt;
 </description>
     </item>
     
@@ -32,11 +42,11 @@
     </item>
     
     <item>
-      <title>Collaborative Tree-based Model Learning</title>
-      <link>https://s-chtl.github.io/project/sok/</link>
+      <title>CRISP Project</title>
+      <link>https://s-chtl.github.io/project/crisp/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://s-chtl.github.io/project/sok/</guid>
-      <description>&lt;p&gt;Tree-based models are among the most efficient machine learning techniques for data mining nowadays due to their accuracy, interpretability, and simplicity. The recent orthogonal needs for more data and privacy protection call for collaborative privacy-preserving solutions. In this work, we survey the literature on distributed and privacy-preserving training of tree-based models and we systematize its knowledge based on four axes: the learning algorithm, the collaborative model, the protection mechanism, and the threat model. We use this to identify the strengths and limitations of these works and provide for the first time a framework analyzing the information leakage occurring in distributed tree-based model learning.&lt;/p&gt;
+      <guid>https://s-chtl.github.io/project/crisp/</guid>
+      <description>&lt;p&gt;In the digital era, users share their personal data with service providers to obtain some utility, e.g., access to high-quality services. Yet, the induced information flows raise privacy and integrity concerns. Consequently, cautious users may want to protect their privacy by minimizing the amount of information they disclose to curious service providers. Service providers are interested in verifying the integrity of the users&#39; data to improve their services and obtain useful knowledge for their business. In this work, we present a generic solution to the trade-off between privacy, integrity, and utility, by achieving authenticity verification of data that has been encrypted for offloading to service providers. Based on lattice-based homomorphic encryption and commitments, as well as zero-knowledge proofs, our construction enables a service provider to process and reuse third-party signed data in a privacy-friendly manner with integrity guarantees. We evaluate our solution on different use cases such as smart-metering, disease susceptibility, and location-based activity tracking, thus showing its versatility. Our solution achieves broad generality, quantum-resistance, and relaxes some assumptions of state-of-the-art solutions without affecting performance.&lt;/p&gt;
 </description>
     </item>
     
@@ -47,6 +57,15 @@
       <guid>https://s-chtl.github.io/publication/sok/</guid>
       <description>&lt;p&gt;Tree-based models are among the most efficient machine learning techniques for data mining nowadays due to their accuracy, interpretability, and simplicity. The recent orthogonal needs for more data and privacy protection call for collaborative privacy-preserving solutions. In this work, we survey the literature on distributed and privacy-preserving training of tree-based models and we systematize its knowledge based on four axes: the learning algorithm, the collaborative model, the protection mechanism, and the threat model. We use this to identify the strengths and limitations of these works and provide for the first time a framework analyzing the information leakage occurring in distributed tree-based model learning.&lt;/p&gt;
 &lt;p&gt;The latest version of this work is available on &lt;a href=&#34;https://arxiv.org/abs/2103.08987&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Collaborative Tree-based Model Learning</title>
+      <link>https://s-chtl.github.io/project/sok/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://s-chtl.github.io/project/sok/</guid>
+      <description>&lt;p&gt;Tree-based models are among the most efficient machine learning techniques for data mining nowadays due to their accuracy, interpretability, and simplicity. The recent orthogonal needs for more data and privacy protection call for collaborative privacy-preserving solutions. In this work, we survey the literature on distributed and privacy-preserving training of tree-based models and we systematize its knowledge based on four axes: the learning algorithm, the collaborative model, the protection mechanism, and the threat model. We use this to identify the strengths and limitations of these works and provide for the first time a framework analyzing the information leakage occurring in distributed tree-based model learning.&lt;/p&gt;
 </description>
     </item>
     
