@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Sylvain Chatel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Sylvain Chatel</title>
@@ -13,19 +13,29 @@
     </image>
     
     <item>
-      <title>VERITAS: Plaintext Encoders for Practical Verifiable Homomorphic Encryption</title>
-      <link>https://example.com/publication/veritas/</link>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/veritas/</guid>
-      <description>&lt;p&gt;Homomorphic encryption, which enables the execution of arithmetic operations directly on ciphertexts, is a promising solution for protecting privacy of cloud-delegated computations on sensitive data. However, the correctness of the computation result is not ensured. We propose two error detection encodings and build authenticators that enable practical client-verification of cloud-based homomorphic computations under different trade-offs and without compromising on the features of the encryption algorithm. Our authenticators operate on top of trending ring learning with errors based fully homomorphic encryption schemes over the integers. We implement our solution in VERITAS, a ready-to-use system for verification of outsourced computations executed over encrypted data. We show that contrary to prior work VERITAS supports verification of any homomorphic operation and we demonstrate its practicality for various applications, such as ride-hailing, genomic-data analysis, encrypted search, and machine-learning training and inference.&lt;/p&gt;
-&lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2207.14071&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
+      <title>A Low-Cost Privacy-Preserving Digital Wallet for Humanitarian Aid Distribution</title>
+      <link>https://example.com/publication/wallet/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/wallet/</guid>
+      <description>&lt;p&gt;Humanitarian organizations distribute aid to people affected by armed conflicts or natural disasters. Digitalization has the potential to increase the efficiency and fairness of aid-distribution systems, and recent work by Wang et al. has shown that these benefits are possible without creating privacy harms for aid recipients. However, their work only provides a solution for one particular aid-distribution scenario in which aid recipients receive a pre-defined set of goods. Yet, in many situations it is desirable to enable recipients to decide which items they need at each moment to satisfy their specific needs. We formalize these needs into functional, deployment, security, and privacy requirements, and design a privacy-preserving digital wallet for aid distribution. Our smart-card-based solution enables aid recipients to spend a pre-defined budget at different vendors to obtain the items that they need. We prove our solution&amp;rsquo;s security and privacy properties, and show it is practical at scale.&lt;/p&gt;
+&lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2410.15942&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test Talk</title>
+      <link>https://example.com/talks/test/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talks/test/</guid>
+      <description>&lt;p&gt;In the digital era, users share their personal data with service providers to obtain some utility, e.g., access to high-quality services. Yet, the induced information flows raise privacy and integrity concerns. Consequently, cautious users may want to protect their privacy by minimizing the amount of information they disclose to curious service providers. Service providers are interested in verifying the integrity of the users&amp;rsquo; data to improve their services and obtain useful knowledge for their business. In this work, we present a generic solution to the trade-off between privacy, integrity, and utility, by achieving authenticity verification of data that has been encrypted for offloading to service providers. Based on lattice-based homomorphic encryption and commitments, as well as zero-knowledge proofs, our construction enables a service provider to process and reuse third-party signed data in a privacy-friendly manner with integrity guarantees. We evaluate our solution on different use cases such as smart-metering, disease susceptibility, and location-based activity tracking, thus showing its versatility. Our solution achieves broad generality, quantum-resistance, and relaxes some assumptions of state-of-the-art solutions without affecting performance.&lt;/p&gt;
+&lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2007.04025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Helium: Scalable MPC among Lightweight Participants and under Churn</title>
       <link>https://example.com/publication/helium/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/helium/</guid>
       <description>&lt;p&gt;We introduce Helium, a novel framework that supports scalable secure multiparty computation (MPC) for lightweight participants and tolerates churn.
 Helium relies on multiparty homomorphic encryption (MHE) as its core building block.
@@ -35,6 +45,16 @@ We implement this execution mechanism in Helium, which makes it the first implem
 We show that a Helium network of 30 parties connected with 100Mbits/s links and experiencing a system-wide churn rate of 40 failures per minute can compute the product between a fixed 512x512 secret matrix (e.g., a collectively-trained private model) and a fresh secret vector (e.g., a feature vector) 8.3 times per second.
 This is ~1500 times faster than a state-of-the-art MPC framework operating under no churn.&lt;/p&gt;
 &lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://eprint.iacr.org/2024/194&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ePrint&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VERITAS: Plaintext Encoders for Practical Verifiable Homomorphic Encryption</title>
+      <link>https://example.com/publication/veritas/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/veritas/</guid>
+      <description>&lt;p&gt;Homomorphic encryption, which enables the execution of arithmetic operations directly on ciphertexts, is a promising solution for protecting privacy of cloud-delegated computations on sensitive data. However, the correctness of the computation result is not ensured. We propose two error detection encodings and build authenticators that enable practical client-verification of cloud-based homomorphic computations under different trade-offs and without compromising on the features of the encryption algorithm. Our authenticators operate on top of trending ring learning with errors based fully homomorphic encryption schemes over the integers. We implement our solution in VERITAS, a ready-to-use system for verification of outsourced computations executed over encrypted data. We show that contrary to prior work VERITAS supports verification of any homomorphic operation and we demonstrate its practicality for various applications, such as ride-hailing, genomic-data analysis, encrypted search, and machine-learning training and inference.&lt;/p&gt;
+&lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2207.14071&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

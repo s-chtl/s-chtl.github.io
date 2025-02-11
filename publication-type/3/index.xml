@@ -5,7 +5,7 @@
     <link>https://example.com/publication-type/3/</link>
       <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,19 +13,9 @@
     </image>
     
     <item>
-      <title>VERITAS: Plaintext Encoders for Practical Verifiable Homomorphic Encryption</title>
-      <link>https://example.com/publication/veritas/</link>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/veritas/</guid>
-      <description>&lt;p&gt;Homomorphic encryption, which enables the execution of arithmetic operations directly on ciphertexts, is a promising solution for protecting privacy of cloud-delegated computations on sensitive data. However, the correctness of the computation result is not ensured. We propose two error detection encodings and build authenticators that enable practical client-verification of cloud-based homomorphic computations under different trade-offs and without compromising on the features of the encryption algorithm. Our authenticators operate on top of trending ring learning with errors based fully homomorphic encryption schemes over the integers. We implement our solution in VERITAS, a ready-to-use system for verification of outsourced computations executed over encrypted data. We show that contrary to prior work VERITAS supports verification of any homomorphic operation and we demonstrate its practicality for various applications, such as ride-hailing, genomic-data analysis, encrypted search, and machine-learning training and inference.&lt;/p&gt;
-&lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2207.14071&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Helium: Scalable MPC among Lightweight Participants and under Churn</title>
       <link>https://example.com/publication/helium/</link>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/helium/</guid>
       <description>&lt;p&gt;We introduce Helium, a novel framework that supports scalable secure multiparty computation (MPC) for lightweight participants and tolerates churn.
 Helium relies on multiparty homomorphic encryption (MHE) as its core building block.
@@ -35,6 +25,16 @@ We implement this execution mechanism in Helium, which makes it the first implem
 We show that a Helium network of 30 parties connected with 100Mbits/s links and experiencing a system-wide churn rate of 40 failures per minute can compute the product between a fixed 512x512 secret matrix (e.g., a collectively-trained private model) and a fresh secret vector (e.g., a feature vector) 8.3 times per second.
 This is ~1500 times faster than a state-of-the-art MPC framework operating under no churn.&lt;/p&gt;
 &lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://eprint.iacr.org/2024/194&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ePrint&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VERITAS: Plaintext Encoders for Practical Verifiable Homomorphic Encryption</title>
+      <link>https://example.com/publication/veritas/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/veritas/</guid>
+      <description>&lt;p&gt;Homomorphic encryption, which enables the execution of arithmetic operations directly on ciphertexts, is a promising solution for protecting privacy of cloud-delegated computations on sensitive data. However, the correctness of the computation result is not ensured. We propose two error detection encodings and build authenticators that enable practical client-verification of cloud-based homomorphic computations under different trade-offs and without compromising on the features of the encryption algorithm. Our authenticators operate on top of trending ring learning with errors based fully homomorphic encryption schemes over the integers. We implement our solution in VERITAS, a ready-to-use system for verification of outsourced computations executed over encrypted data. We show that contrary to prior work VERITAS supports verification of any homomorphic operation and we demonstrate its practicality for various applications, such as ride-hailing, genomic-data analysis, encrypted search, and machine-learning training and inference.&lt;/p&gt;
+&lt;p&gt;The latest version of this paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2207.14071&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ArXiv&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
